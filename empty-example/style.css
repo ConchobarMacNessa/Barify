@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  background-color: blue;
+  margin: 0;
+}
+.startButton {
+  text-align: center;
+  font-family: monospace;
+}
+canvas {
+  margin:auto;
+  display: block;
+}
